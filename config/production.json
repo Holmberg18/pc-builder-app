@@ -1,0 +1,11 @@
+{
+    "system": {
+      "database": {
+        "host": "gcr.io/cloudrun/placeholder@sha256:45ec0903b0fe39eb9e4a1cca42f1719e4fe3fda2d5a0f49cc355d453a60f1ff5",
+        "port": "8080",
+        "database": "production",
+        "user": "885376956760-compute@developer.gserviceaccount.com",
+        "password": ""
+      }
+    }
+  }
