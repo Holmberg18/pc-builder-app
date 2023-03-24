@@ -84,7 +84,7 @@
     "system": {
         "database": {
             "host": "localhost",
-            "port": "3306",
+            "port": "8080",
             "database": "evershop",
             "user": "root",
             "password": "password"
