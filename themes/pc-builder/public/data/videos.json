@@ -1,0 +1,17 @@
+{
+    "videos": [
+        {
+            "src": "/videos/nvidia_Trim.mp4",
+            "text": "Shop Nvidia",
+            "href": "/category/nvidia"
+        }, {
+            "src": "/videos/amd_Trim.mp4",
+            "text": "Shop AMD",
+            "href": "/category/amd"
+        }, {
+            "src": "/videos/intel_Trim.mp4",
+            "text": "Shop Intel Arc",
+            "href": "/category/intel"
+        }
+    ]
+}
