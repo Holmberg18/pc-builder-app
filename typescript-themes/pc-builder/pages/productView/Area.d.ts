@@ -1,0 +1,1 @@
+declare module '@evershop/evershop/src/components/common/Area'

@@ -7,7 +7,7 @@ import * as data from "../../public/data/videos.json";
 
 const MainBanner: FC = () => {
 
-  const settings: Object = {
+  const settings: {[key: string]: any} = {
     autoplay: true,
     autoplaySpeed: 5000,
     pauseOnHover: true,
@@ -25,7 +25,7 @@ const MainBanner: FC = () => {
         <div className="banner-content">
           <h1>Welcome to our Custom PC Building Estore</h1>
           <p>Shop our latest collections and find great deals on the products you love.</p>
-          <button className="btn-shop-now">Shop Now</button>
+          <a href="/category/amd"><button className="btn-shop-now">Shop Now</button></a>
         </div>
       </div>
       <div className="info-banner">

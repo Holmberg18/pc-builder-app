@@ -1,0 +1,61 @@
+.product-single-name {
+    text-transform: capitalize;
+  }
+  
+  h1.product-single-name {
+    font-size: 3rem;
+    color: white;
+}
+
+main.content {
+    background-color: black;
+}
+
+form#productForm .add-to-cart .button {
+    background-color: #850027;
+    border-radius: .8rem;
+}
+
+form#productForm .add-to-cart .button:hover {
+    background-color: #ce0340;
+    transition: 1s;
+}
+
+
+form#productForm .add-to-cart .button span {
+    color: white;
+    font-weight: 900;
+}
+
+span {
+    color: white;
+}
+
+div.product-single-sku.text-textSubdued {
+    color: #cfcfcf;
+}
+
+
+.field-wrapper.flex.flex-grow {
+    max-width: 4rem;
+    max-height: 4rem;
+    border-radius: 1rem;
+}
+
+.product-description {
+    color: white;
+}
+
+.product-page-middle.page-width {
+    padding-top: 5rem;
+}
+
+div#product-current-image {
+    border-radius: 1rem;
+}
+
+ul.more-view-thumbnail.product-gallery.mt-2.grid.grid-cols-4.gap-1 {}
+
+li.flex.justify-center.items-center a img {
+    border-radius: .5rem;
+}

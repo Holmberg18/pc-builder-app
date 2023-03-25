@@ -13,10 +13,10 @@ Area.defaultProps.components = {
       sortOrder: 20,
       component: require('C:\\Users\\holmb\\Desktop\\Reebelo\\my-app\\node_modules\\@evershop\\evershop\\src\\modules\\catalog\\pages\\frontStore\\productView\\Form.js')
     },
-    XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2F0YWxvZ1xwYWdlc1xmcm9udFN0b3JlXHByb2R1Y3RWaWV3XEdlbmVyYWxJbmZvLmpz: {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2F0YWxvZ1xwYWdlc1xmcm9udFN0b3JlXHByb2R1Y3RWaWV3XEdlbmVyYWxJbmZvLmpz',
+    XHRoZW1lc1xwYy1idWlsZGVyXHBhZ2VzXHByb2R1Y3RWaWV3XEdlbmVyYWxJbmZvLmpz: {
+      id: 'XHRoZW1lc1xwYy1idWlsZGVyXHBhZ2VzXHByb2R1Y3RWaWV3XEdlbmVyYWxJbmZvLmpz',
       sortOrder: 10,
-      component: require('C:\\Users\\holmb\\Desktop\\Reebelo\\my-app\\node_modules\\@evershop\\evershop\\src\\modules\\catalog\\pages\\frontStore\\productView\\GeneralInfo.js')
+      component: require('C:\\Users\\holmb\\Desktop\\Reebelo\\my-app\\themes\\pc-builder\\pages\\productView\\GeneralInfo.js')
     },
     'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2F0YWxvZ1xwYWdlc1xmcm9udFN0b3JlXHByb2R1Y3RWaWV3XE9wdGlvbnMuanM=': {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2F0YWxvZ1xwYWdlc1xmcm9udFN0b3JlXHByb2R1Y3RWaWV3XE9wdGlvbnMuanM=',
