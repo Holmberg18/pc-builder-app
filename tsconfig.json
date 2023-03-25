@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
-    "lib": ["dom", "es6"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    // "lib": ["dom", "es6"],
     "jsx": "react",
     "esModuleInterop": true,
     "outDir": "themes",
@@ -9,6 +11,5 @@
     "strict": true,
     "moduleResolution": "node",
     "resolveJsonModule": true
-  },
-  "exclude": ["node_modules"]
+  }
 }

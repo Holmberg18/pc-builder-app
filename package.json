@@ -10,6 +10,7 @@
     "build": "evershop build",
     "dev": "evershop dev"
   },
+  "typings": "index.d.ts",
   "dependencies": {
     "@babel/plugin-syntax-jsx": "^7.18.6",
     "@babel/plugin-transform-react-jsx": "^7.21.0",
